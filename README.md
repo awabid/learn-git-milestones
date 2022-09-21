@@ -285,7 +285,7 @@ Item # | Description | Completed
 1d | What does `log` do? |displays commit log history and messages
 2a | 2nd Favorite emoji |😊
 2b | Link to `commit #2 from Github Desktop` |[commit #2 from Github.com](https://github.com/awabid/learn-git-milestones/blob/main/README.md)
-2c | Full path to your working directory |
+2c | Full path to your working directory |/Users/awabid/Desktop/DIG245/dig245-critical-web-design/learn-git-milestones
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
