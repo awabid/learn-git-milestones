@@ -280,13 +280,13 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji |  🤨
-1b | Link to `commit #1 from Github.com` |[commit #1 from Github.com](https://github.com/awabid/learn-git-milestones/blob/main/README.md)
+1b | Link to `commit #1 from Github.com` |[commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/commit/83d7bcfb8daf12ed2f1f660352f97332f6b49e1c)
 1c | Link to markdown tables docs |[markdown link](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? |displays commit log history and messages
 2a | 2nd Favorite emoji |😊
-2b | Link to `commit #2 from Github Desktop` |[commit #2 from Github.com](https://github.com/awabid/learn-git-milestones/blob/main/README.md)
+2b | Link to `commit #2 from Github Desktop` |[commit #2 from Github.com](https://github.com/omundy/learn-git-milestones/commit/c0df63369e0ceb6029d865a2082d55ebcf8e323b)
 2c | Full path to your working directory |/Users/awabid/Desktop/DIG245/dig245-critical-web-design/learn-git-milestones
-2d | Link to `commit #3 from CLI` |
+2d | Link to `commit #3 from CLI` |[commit #3 from Github.com](https://github.com/omundy/learn-git-milestones/commit/f40a23cd022e831f81014eb6916d3ce4c9aa8366)
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
